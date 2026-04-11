@@ -1,0 +1,12 @@
+Insert ATM card
+Enter PIN
+Choose Withdraw Cash
+Enter amount
+If balance is enough continue
+Else show Insufficient funds
+Dispense cash
+Print receipt (optional)
+Remove card
+Inputs:
+ATM card
+PIn

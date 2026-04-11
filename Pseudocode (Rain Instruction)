@@ -1,0 +1,5 @@
+IF it is raining THEN
+    Take umbrella
+ELSE
+    Put on sunscreen
+END IF

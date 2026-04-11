@@ -1,0 +1,11 @@
+ Algorithm for Crossing the Road
+Start
+Go to the roadside
+Look left, right, and left again
+If cars are coming, wait (conditional)
+Repeat step 3 (loop) until no cars are coming
+Walk across the road carefully
+Reach the other side
+End
+Loop: Step 5 (keep checking traffic)
+Conditional: Step 4 (if cars are coming)
