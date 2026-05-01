@@ -1,1 +1,6 @@
-hello
+def cube(number):
+if type of (number) !=int:
+ return number
+   result=number**3
+   return result
+ print(cube(1oo))
